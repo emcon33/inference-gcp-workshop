@@ -7,7 +7,7 @@ https://developers.redhat.com/developer-sandbox
 
 Sample Backend App and Input Image: 
 <p align="left">
-  <a href="#"><img src="./gcp.jpg" width="600"></a> <br />
+  <a href="#"><img src="./gcp.jpg" width="100"></a> <br />
   <em> 
   </em>
 </p>
