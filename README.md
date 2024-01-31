@@ -7,7 +7,7 @@ https://developers.redhat.com/developer-sandbox
 
 Red Hat Demo System Lab OCP4 on GCP 
 <p align="left">
-  <a href="#"><img src="./gcp.jpg" width="100"></a> <br />
+  <a href="#"><img src="./gcp.jpg" width="200"></a> <br />
   <em> 
   </em>
 </p>
