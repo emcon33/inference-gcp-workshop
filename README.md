@@ -5,7 +5,7 @@ by Andrew Grimes and Jim Garrett of Red Hat
 If you need a gcp cluster, you can use this program to get a free gcp Cluster Trial 
 https://developers.redhat.com/developer-sandbox
 
-Sample Backend App and Input Image: 
+Red Hat Demo System Lab OCP4 on GCP 
 <p align="left">
   <a href="#"><img src="./gcp.jpg" width="100"></a> <br />
   <em> 
