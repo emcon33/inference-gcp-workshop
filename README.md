@@ -3,7 +3,14 @@
 by Andrew Grimes and Jim Garrett of Red Hat 
 
 If you need a gcp cluster, you can use this program to get a free gcp Cluster Trial 
-https://www.redhat.com/en/blog/introducing-red-hat-openshift-service-gcp-hands-experience
+https://developers.redhat.com/developer-sandbox
+
+Sample Backend App and Input Image: 
+<p align="left">
+  <a href="#"><img src="./gcp.jpg" width="600"></a> <br />
+  <em> 
+  </em>
+</p>
 
 Containerized app that serves a containerized Resnet18 deep learning image classification model using FastAPI. We used an ImageNet pretrained model that can predict 1000 different classes of general objects, the samples are animals but it will work with anything. See class list [here](https://deeplearning.cms.waikato.ac.nz/user-guide/class-maps/IMAGENET/).
 
@@ -20,8 +27,8 @@ Sample Text Output:
 {"success":true,"predictions":[{"label":"black-and-tan coonhound","probability":0.5641617774963379},{"label":"Doberman","probability":0.3869141638278961},{"label":"bluetick","probability":0.012455757707357407},{"label":"Rottweiler","probability":0.007904204539954662},{"label":"Gordon setter","probability":0.006333122029900551}]}%
 
 
-OpenShift/gcp instructions (deck to be created) 
-1. Bring up a generic gcp cluster in gcp. This also works with OpenShift or other Managed OpenShift Options to demonstrate portability.
+OpenShift Dedicated on GCP instructions (deck to be created) 
+1. Bring up a generic OpenShift Dedicated cluster in GCP. This also works with Self Managed OpenShift or other Managed OpenShift Cloud Options to demonstrate portability.
 
 2. Create a Project and use the Git build option taking the defaults. watch the build logs until complete to see how gcp builds. 
   This Repo: https://github.com/emcon33/inference-gcp-workshop
