@@ -1,5 +1,5 @@
 # inference-gcp-workshop
-# This is a workshop for deploying a Pytorch & FastAPI project to OpenShift Dedicated on gcp and perform inference.
+# This is a workshop for deploying a Pytorch & FastAPI project to OpenShift Dedicated on GCP and perform inference.
 by Andrew Grimes and Jim Garrett of Red Hat 
 
 If you need a gcp cluster, you can use this program to get a free gcp Cluster Trial 
